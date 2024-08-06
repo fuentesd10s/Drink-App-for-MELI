@@ -7,7 +7,7 @@ Drink app for MELI is an app showing a list of drinks using a public API giving 
 - Fragments
 - Glide
 - Navigation component
-- Material Deisign
+- Material Design
 - Coroutines
 - MVVM
 - ViewModel & LiveData
